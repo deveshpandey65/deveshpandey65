@@ -14,13 +14,13 @@
 </p>
 
 ## Table of Contents
-- [About Me](#about-me)
-- [Education](#education)
+- [About Me](#about-me-ℹ%EF%B8%8F)
+- [Education](#education-)
 - [Skills](#skills-)
-- [Certificates](#certificates)
-- [Projects](#projects)
-- [Professional Experiences](#professional-experiences)
-- [Coursework](#coursework)
+- [Certificates](#certificates-)
+- [Projects](#projects-%EF%B8%8F)
+- [Professional Experiences](#professional-experiences-)
+- [Coursework](#coursework-)
 
 <!-- About Me Section -->
 ## About Me ℹ️
