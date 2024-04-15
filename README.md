@@ -1,24 +1,20 @@
-<!-- Project Title -->
+
 <h1 align="center">Devesh Pandey's Portfolio 🚀</h1>
 
-<!-- Project Description -->
 <p align="center">
   Welcome to my GitHub repository! This repository serves as a showcase of my skills, projects, certifications, and professional experiences in the field of software development.
 </p>
 
-<!-- Badges -->
 <p align="center">
   <!-- Add badges here -->
 </p>
 
-<!-- Screenshots/GIFs -->
 <p align="center">
   <a href="https://deveshpandey65.github.io/Devesh/"><img src="https://github.io/deveshpandey65/portfolio/blob/main/assets/portfolio-screenshot.png" href="https://deveshpandey65.github.io/Devesh/" alt="Devesh Pandey's Portfolio" width="600"></a>
 </p>
 
-<!-- Table of Contents -->
 ## Table of Contents
-- [About Me](#about-me)
+- [About Me](##about-me)
 - [Education](#education)
 - [Skills](#skills)
 - [Certificates](#certificates)
