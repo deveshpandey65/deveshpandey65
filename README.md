@@ -14,9 +14,9 @@
 </p>
 
 ## Table of Contents
-- [About Me](##about-me)
+- [About Me](#about-me)
 - [Education](#education)
-- [Skills](#skills)
+- [Skills](#skills-)
 - [Certificates](#certificates)
 - [Projects](#projects)
 - [Professional Experiences](#professional-experiences)
